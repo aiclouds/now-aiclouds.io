@@ -34,7 +34,7 @@
     "content-type": "1.0.4",
     "cookie": "0.4.0",
     "etag": "1.8.1",
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.1",
     "source-map-support": "0.5.12",
     "test-listen": "1.1.0",
     "typescript": "3.5.2"
