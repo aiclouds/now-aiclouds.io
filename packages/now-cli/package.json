@@ -147,7 +147,7 @@
     "pcre-to-regexp": "1.0.0",
     "pluralize": "7.0.0",
     "pre-commit": "1.2.2",
-    "printf": "0.2.5",
+    "printf": "0.6.1",
     "progress": "2.0.3",
     "promisepipe": "3.0.0",
     "psl": "1.1.31",
